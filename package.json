@@ -1,6 +1,6 @@
 {
-  "name": "baileys-mod",
-  "version": "6.8.4",
+  "name": "hansamal-md-baileys",
+  "version": "8.6.0",
   "description": "Custom Baileys WhatsApp API",
   "keywords": [
     "baileys", "baileys-mod", "wabot", "whatsapp",
@@ -12,7 +12,7 @@
     "url": "git+ssh://git@github.com/nstar-y/bail.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "IMALKA-HANSAMAL",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
